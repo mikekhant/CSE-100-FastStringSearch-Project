@@ -1,1 +1,1 @@
-# CSE-100-SuffixArray-Project
+# CSE-100-FastStringSearch-Project
